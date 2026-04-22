@@ -2,5 +2,5 @@
 This repo contains different projects around physical simulations.
 
 ## Projects
-- lightinterference
+- lightinterference: Light Interference Simulation with .csv Output
 - 
